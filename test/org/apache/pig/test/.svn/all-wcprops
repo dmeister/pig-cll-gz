@@ -1,0 +1,1157 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1132508/pig/trunk/test/org/apache/pig/test
+END
+TestMonitoredUDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestMonitoredUDF.java
+END
+TestLogToPhyCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestLogToPhyCompiler.java
+END
+TestExampleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1102839/pig/trunk/test/org/apache/pig/test/TestExampleGenerator.java
+END
+TestHBaseStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1132508/pig/trunk/test/org/apache/pig/test/TestHBaseStorage.java
+END
+TestFilterOpNumeric.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestFilterOpNumeric.java
+END
+TestScalarAliases.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1092844/pig/trunk/test/org/apache/pig/test/TestScalarAliases.java
+END
+TestMRCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1101637/pig/trunk/test/org/apache/pig/test/TestMRCompiler.java
+END
+TestEvalPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/test/TestEvalPipeline.java
+END
+TestLocalRearrange.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLocalRearrange.java
+END
+TestAlgebraicEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestAlgebraicEval.java
+END
+TestFilterUDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1036102/pig/trunk/test/org/apache/pig/test/TestFilterUDF.java
+END
+TestConstExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestConstExpr.java
+END
+TestEvalPipelineLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1099929/pig/trunk/test/org/apache/pig/test/TestEvalPipelineLocal.java
+END
+TestStoreOld.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestStoreOld.java
+END
+RegexGroupCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/RegexGroupCount.java
+END
+TestBagFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestBagFormat.java
+END
+TestScriptUDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1125537/pig/trunk/test/org/apache/pig/test/TestScriptUDF.java
+END
+OrdDescNumeric.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/OrdDescNumeric.java
+END
+TestFindQuantiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005293/pig/trunk/test/org/apache/pig/test/TestFindQuantiles.java
+END
+TestSplitStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestSplitStore.java
+END
+PORead.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1052348/pig/trunk/test/org/apache/pig/test/PORead.java
+END
+TestMultiply.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestMultiply.java
+END
+TestMergeJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestMergeJoin.java
+END
+TestLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestLoad.java
+END
+TestPODistinct.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1052348/pig/trunk/test/org/apache/pig/test/TestPODistinct.java
+END
+TestMapSideCogroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestMapSideCogroup.java
+END
+TestSampleOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestSampleOptimizer.java
+END
+TestInputOutputFileValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestInputOutputFileValidator.java
+END
+TestRegexp.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestRegexp.java
+END
+TestLOLoadDeterminedSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1066933/pig/trunk/test/org/apache/pig/test/TestLOLoadDeterminedSchema.java
+END
+TestBinInterSedes.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestBinInterSedes.java
+END
+TestEvalPipeline2.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1125124/pig/trunk/test/org/apache/pig/test/TestEvalPipeline2.java
+END
+TestNewPlanFilterRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1102221/pig/trunk/test/org/apache/pig/test/TestNewPlanFilterRule.java
+END
+TestBZip.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1096616/pig/trunk/test/org/apache/pig/test/TestBZip.java
+END
+TestStreamingLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestStreamingLocal.java
+END
+TestMapReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestMapReduce.java
+END
+TestBuiltin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1126723/pig/trunk/test/org/apache/pig/test/TestBuiltin.java
+END
+PigTestLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/PigTestLoader.java
+END
+TestForEach.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestForEach.java
+END
+TestPartitionFilterPushDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1099929/pig/trunk/test/org/apache/pig/test/TestPartitionFilterPushDown.java
+END
+TestFRJoin2.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestFRJoin2.java
+END
+TestCollectedGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestCollectedGroup.java
+END
+TestUDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestUDF.java
+END
+TestBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestBoolean.java
+END
+TestFRJoinNullValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestFRJoinNullValue.java
+END
+TestLimitAdjuster.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLimitAdjuster.java
+END
+OrdDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/OrdDesc.java
+END
+TestMacroExpansion.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1127656/pig/trunk/test/org/apache/pig/test/TestMacroExpansion.java
+END
+TestJobSubmission.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestJobSubmission.java
+END
+TestImplicitSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestImplicitSplit.java
+END
+TestToolsPigServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1091615/pig/trunk/test/org/apache/pig/test/TestToolsPigServer.java
+END
+TestPOUserFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1052348/pig/trunk/test/org/apache/pig/test/TestPOUserFunc.java
+END
+FakeFSInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/FakeFSInputStream.java
+END
+TestJoinSmoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/test/TestJoinSmoke.java
+END
+TestCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1102839/pig/trunk/test/org/apache/pig/test/TestCombiner.java
+END
+TestSchemaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestSchemaUtil.java
+END
+TestPhyOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPhyOp.java
+END
+NonDefaultBagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/NonDefaultBagFactory.java
+END
+TestForEachStar.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestForEachStar.java
+END
+TestNewPlanPushDownForeachFlatten.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1102221/pig/trunk/test/org/apache/pig/test/TestNewPlanPushDownForeachFlatten.java
+END
+TestKeyTypeDiscoveryVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestKeyTypeDiscoveryVisitor.java
+END
+TestGTOrEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestGTOrEqual.java
+END
+TestGreaterThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestGreaterThan.java
+END
+TestDataBagAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1126723/pig/trunk/test/org/apache/pig/test/TestDataBagAccess.java
+END
+TestPlanGeneration.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1095968/pig/trunk/test/org/apache/pig/test/TestPlanGeneration.java
+END
+TestResourceSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1096604/pig/trunk/test/org/apache/pig/test/TestResourceSchema.java
+END
+TestScriptLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1102816/pig/trunk/test/org/apache/pig/test/TestScriptLanguage.java
+END
+TestPigRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1096807/pig/trunk/test/org/apache/pig/test/TestPigRunner.java
+END
+TestLocal2.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLocal2.java
+END
+TestInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestInvoker.java
+END
+TestNewPlanFilterAboveForeach.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1102461/pig/trunk/test/org/apache/pig/test/TestNewPlanFilterAboveForeach.java
+END
+PigExecTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/PigExecTestCase.java
+END
+TestFinish.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1071864/pig/trunk/test/org/apache/pig/test/TestFinish.java
+END
+TestPigScriptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestPigScriptParser.java
+END
+TestBatchAliases.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestBatchAliases.java
+END
+TestUTF8.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestUTF8.java
+END
+TestMapReduce2.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestMapReduce2.java
+END
+TestCompressedFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestCompressedFiles.java
+END
+TestCmdLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestCmdLineParser.java
+END
+TestStringUDFs.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1081512/pig/trunk/test/org/apache/pig/test/TestStringUDFs.java
+END
+TestPORegexp.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1080749/pig/trunk/test/org/apache/pig/test/TestPORegexp.java
+END
+TestLoadFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLoadFunc.java
+END
+TestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestParser.java
+END
+TestStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestStore.java
+END
+TestOptimizeLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestOptimizeLimit.java
+END
+TestJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestJoin.java
+END
+TestSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1103840/pig/trunk/test/org/apache/pig/test/TestSchema.java
+END
+TestCharArrayToNumeric.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestCharArrayToNumeric.java
+END
+TestCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestCounters.java
+END
+TestProjectStarRangeInUdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1103776/pig/trunk/test/org/apache/pig/test/TestProjectStarRangeInUdf.java
+END
+TestParamSubPreproc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1085612/pig/trunk/test/org/apache/pig/test/TestParamSubPreproc.java
+END
+TestOrderBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestOrderBy.java
+END
+TestPOMapLookUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPOMapLookUp.java
+END
+TestUnionOnSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1103840/pig/trunk/test/org/apache/pig/test/TestUnionOnSchema.java
+END
+TestNewPlanPruneMapKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestNewPlanPruneMapKeys.java
+END
+TestLTOrEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLTOrEqual.java
+END
+TestNewPlanListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/test/TestNewPlanListener.java
+END
+TestNewPlanImplicitSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestNewPlanImplicitSplit.java
+END
+TestBestFitCast.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1079521/pig/trunk/test/org/apache/pig/test/TestBestFitCast.java
+END
+TestFilterOpString.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestFilterOpString.java
+END
+TestMod.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestMod.java
+END
+InputSchemaUDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/InputSchemaUDF.java
+END
+TestGroupConstParallel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestGroupConstParallel.java
+END
+TestTypedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestTypedMap.java
+END
+TestForEachNestedPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestForEachNestedPlan.java
+END
+TestPOSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1052348/pig/trunk/test/org/apache/pig/test/TestPOSort.java
+END
+TestProjectStarExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestProjectStarExpander.java
+END
+TestSubtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestSubtract.java
+END
+TestLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLocal.java
+END
+TestMultiQueryLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1080384/pig/trunk/test/org/apache/pig/test/TestMultiQueryLocal.java
+END
+TestAlgebraicEvalLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestAlgebraicEvalLocal.java
+END
+TestMergeJoinOuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestMergeJoinOuter.java
+END
+MiniCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1099951/pig/trunk/test/org/apache/pig/test/MiniCluster.java
+END
+TestPigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1094833/pig/trunk/test/org/apache/pig/test/TestPigException.java
+END
+TestGrunt.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1126723/pig/trunk/test/org/apache/pig/test/TestGrunt.java
+END
+TestScriptLanguageJavaScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1073977/pig/trunk/test/org/apache/pig/test/TestScriptLanguageJavaScript.java
+END
+TestForEachNestedPlanLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestForEachNestedPlanLocal.java
+END
+TestPinOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/test/TestPinOptions.java
+END
+TestPigStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPigStorage.java
+END
+TestGFCross.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1086824/pig/trunk/test/org/apache/pig/test/TestGFCross.java
+END
+TestPigServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1126723/pig/trunk/test/org/apache/pig/test/TestPigServer.java
+END
+TestProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestProject.java
+END
+PigStorageNoDefCtor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/PigStorageNoDefCtor.java
+END
+TestPi.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPi.java
+END
+TestEqualTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestEqualTo.java
+END
+TestNativeMapReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1091585/pig/trunk/test/org/apache/pig/test/TestNativeMapReduce.java
+END
+TestEmptyInputDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestEmptyInputDir.java
+END
+TestMultiQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1101276/pig/trunk/test/org/apache/pig/test/TestMultiQuery.java
+END
+TestFilterSimplification.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1102892/pig/trunk/test/org/apache/pig/test/TestFilterSimplification.java
+END
+TestSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestSample.java
+END
+TestMultiQueryBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1099299/pig/trunk/test/org/apache/pig/test/TestMultiQueryBasic.java
+END
+TestInfixArithmetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestInfixArithmetic.java
+END
+TestAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestAdd.java
+END
+TestSplitCombine.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestSplitCombine.java
+END
+TestStreaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1102865/pig/trunk/test/org/apache/pig/test/TestStreaming.java
+END
+TestNotEqualTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestNotEqualTo.java
+END
+TestNewPlanOperatorPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/test/TestNewPlanOperatorPlan.java
+END
+TestPigSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPigSplit.java
+END
+TestPigTupleRawComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1036236/pig/trunk/test/org/apache/pig/test/TestPigTupleRawComparator.java
+END
+TestTextDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestTextDataParser.java
+END
+TestLogicalPlanBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1126723/pig/trunk/test/org/apache/pig/test/TestLogicalPlanBuilder.java
+END
+TestPigStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1078875/pig/trunk/test/org/apache/pig/test/TestPigStats.java
+END
+TestInstantiateFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestInstantiateFunc.java
+END
+TestSecondarySort.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestSecondarySort.java
+END
+TestPONegative.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPONegative.java
+END
+TestNewPlanLogicalOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1080049/pig/trunk/test/org/apache/pig/test/TestNewPlanLogicalOptimizer.java
+END
+TestUDFWithoutParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestUDFWithoutParameter.java
+END
+TestDivide.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestDivide.java
+END
+TestFuncSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestFuncSpec.java
+END
+TestRelationToExprProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestRelationToExprProject.java
+END
+TestPruneColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1096606/pig/trunk/test/org/apache/pig/test/TestPruneColumn.java
+END
+TestConversions.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestConversions.java
+END
+TestNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestNull.java
+END
+TestMultiQueryCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1080049/pig/trunk/test/org/apache/pig/test/TestMultiQueryCompiler.java
+END
+OrdAsc.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/OrdAsc.java
+END
+TestAlgebraicInstantiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestAlgebraicInstantiation.java
+END
+PigStorageWithSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1034623/pig/trunk/test/org/apache/pig/test/PigStorageWithSchema.java
+END
+TestPoissonSampleLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPoissonSampleLoader.java
+END
+TestProjectRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1102461/pig/trunk/test/org/apache/pig/test/TestProjectRange.java
+END
+TestUDFContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1063933/pig/trunk/test/org/apache/pig/test/TestUDFContext.java
+END
+TestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1052348/pig/trunk/test/org/apache/pig/test/TestFilter.java
+END
+TestBinaryExpressionOps.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestBinaryExpressionOps.java
+END
+TestFRJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/test/TestFRJoin.java
+END
+TestOrderBy2.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestOrderBy2.java
+END
+TestUnion.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestUnion.java
+END
+TestLargeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLargeFile.java
+END
+TestDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestDataModel.java
+END
+TestDeleteOnFail.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestDeleteOnFail.java
+END
+TestPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1052354/pig/trunk/test/org/apache/pig/test/TestPackage.java
+END
+FakeFSOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/FakeFSOutputStream.java
+END
+TestSkewedJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/test/TestSkewedJoin.java
+END
+TestStoreInstances.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestStoreInstances.java
+END
+TestPOBinCond.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPOBinCond.java
+END
+TestPhyPatternMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1040839/pig/trunk/test/org/apache/pig/test/TestPhyPatternMatch.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1102461/pig/trunk/test/org/apache/pig/test/Util.java
+END
+OptimizeLimitPlanPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/OptimizeLimitPlanPrinter.java
+END
+TestNewPlanPushUpFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1102925/pig/trunk/test/org/apache/pig/test/TestNewPlanPushUpFilter.java
+END
+TestAccumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestAccumulator.java
+END
+TestLessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestLessThan.java
+END
+TestTmpFileCompression.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1091120/pig/trunk/test/org/apache/pig/test/TestTmpFileCompression.java
+END
+TestDataBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestDataBag.java
+END
+TestNullConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1127656/pig/trunk/test/org/apache/pig/test/TestNullConstant.java
+END
+TestPigContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1125537/pig/trunk/test/org/apache/pig/test/TestPigContext.java
+END
+TestCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestCommit.java
+END
+TestPOGenerate.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestPOGenerate.java
+END
+TestPOCast.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/TestPOCast.java
+END
+TestNewPlanLogToPhyTranslationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1126723/pig/trunk/test/org/apache/pig/test/TestNewPlanLogToPhyTranslationVisitor.java
+END
+TestTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/TestTuple.java
+END
+TestTypeCheckingValidatorNewLP.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1103827/pig/trunk/test/org/apache/pig/test/TestTypeCheckingValidatorNewLP.java
+END
+TestNewPlanRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1102932/pig/trunk/test/org/apache/pig/test/TestNewPlanRule.java
+END
+TestNewPlanColumnPrune.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestNewPlanColumnPrune.java
+END
+TestMergeForEachOptimization.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/TestMergeForEachOptimization.java
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce
+END
+TestMultipleOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputs.java
+END
+TestTypedApi2.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestTypedApi2.java
+END
+TestBasicTableUnion.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestBasicTableUnion.java
+END
+TestCheckin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestCheckin.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/Dictionary.java
+END
+ToolTestComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/ToolTestComparator.java
+END
+TableMRSample1.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TableMRSample1.java
+END
+TableMRSample2.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TableMRSample2.java
+END
+TestTfileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestTfileSplit.java
+END
+TestTypeCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestTypeCheck.java
+END
+TestTypedApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestTypedApi.java
+END
+TestMultipleOutputs2TypedApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputs2TypedApi.java
+END
+TestMultipleOutputs2.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputs2.java
+END
+TableMRSampleSortedTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TableMRSampleSortedTable.java
+END
+TestMultipleOutputs3.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputs3.java
+END
+TestMultipleOutputs3TypedApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputs3TypedApi.java
+END
+TableMRSortedTableZebraKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TableMRSortedTableZebraKeyGenerator.java
+END
+TestMultipleOutputs4.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputs4.java
+END
+TestMultipleOutputs4TypedApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputs4TypedApi.java
+END
+TestBasicTableIOFMoreLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestBasicTableIOFMoreLocal.java
+END
+TestBasicTableIOFormatDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestBasicTableIOFormatDFS.java
+END
+TableMRSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TableMRSample.java
+END
+TableMapReduceExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TableMapReduceExample.java
+END
+TestMultipleOutputsTypedApiNeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputsTypedApiNeg.java
+END
+ArticleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/ArticleGenerator.java
+END
+TestTempDirRemoval.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestTempDirRemoval.java
+END
+TestMultipleOutputsTypeApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestMultipleOutputsTypeApi.java
+END
+TestBasicTableIOFormatLocalFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/mapreduce/TestBasicTableIOFormatLocalFS.java
+END

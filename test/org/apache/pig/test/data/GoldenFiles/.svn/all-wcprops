@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/data/GoldenFiles
+END
+MRC9.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC9.gld
+END
+Split1.gld
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Split1.gld
+END
+BinCond.gld
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/BinCond.gld
+END
+Split2.gld
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Split2.gld
+END
+Cogroup.gld
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Cogroup.gld
+END
+Distinct.gld
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Distinct.gld
+END
+MRC10.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC10.gld
+END
+MRC11.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC11.gld
+END
+MRC12.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC12.gld
+END
+MRC13.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC13.gld
+END
+jsTst3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/jsTst3
+END
+MRC14.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC14.gld
+END
+jsTst4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/jsTst4
+END
+MRC15.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1088749/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC15.gld
+END
+MRC16.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC16.gld
+END
+Union.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Union.gld
+END
+MRC17.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC17.gld
+END
+MRC18.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1100416/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC18.gld
+END
+MRC19.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC19.gld
+END
+ComplexForeach.gld
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/ComplexForeach.gld
+END
+Comparison.gld
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Comparison.gld
+END
+Limit.gld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Limit.gld
+END
+Sort.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Sort.gld
+END
+IsNull1.gld
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/IsNull1.gld
+END
+IsNull2.gld
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/IsNull2.gld
+END
+Arithmetic.gld
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Arithmetic.gld
+END
+Generate.gld
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/Generate.gld
+END
+MRC1.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC1.gld
+END
+MRC2.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC2.gld
+END
+MRC3.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC3.gld
+END
+MRC4.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC4.gld
+END
+MRC5.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC5.gld
+END
+MRC6.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC6.gld
+END
+MRC7.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC7.gld
+END
+MRC8.gld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1065818/pig/trunk/test/org/apache/pig/test/data/GoldenFiles/MRC8.gld
+END

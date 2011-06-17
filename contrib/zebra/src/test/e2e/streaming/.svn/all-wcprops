@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming
+END
+table-creator.pig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/table-creator.pig
+END
+table-mapper.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/table-mapper.pl
+END
+complex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/complex.txt
+END
+simple.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/simple.txt
+END
+table-creator-complex.pig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/table-creator-complex.pig
+END
+tuple.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/tuple.txt
+END
+table-creator-simple.pig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/table-creator-simple.pig
+END
+map.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/map.txt
+END
+load.pig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/load.pig
+END
+nested_map.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/nested_map.txt
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/readme
+END
+1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/streaming/1.txt
+END

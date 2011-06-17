@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1126723/pig/trunk/src/org/apache/pig/tools/grunt
+END
+Grunt.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1126723/pig/trunk/src/org/apache/pig/tools/grunt/Grunt.java
+END
+autocomplete
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/tools/grunt/autocomplete
+END
+autocomplete_aliases
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/tools/grunt/autocomplete_aliases
+END
+PigCompletor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/tools/grunt/PigCompletor.java
+END
+PigCompletorAliases.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/tools/grunt/PigCompletorAliases.java
+END
+GruntParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1126723/pig/trunk/src/org/apache/pig/tools/grunt/GruntParser.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/tools/grunt/Command.java
+END

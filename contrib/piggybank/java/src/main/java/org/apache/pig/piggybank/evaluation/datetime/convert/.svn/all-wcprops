@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/convert
+END
+CustomFormatToISO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/convert/CustomFormatToISO.java
+END
+ISOToUnix.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/convert/ISOToUnix.java
+END
+UnixToISO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/convert/UnixToISO.java
+END

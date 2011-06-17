@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1005559/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/stats
+END
+COR.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1005559/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/stats/COR.java
+END
+COV.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1005559/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/stats/COV.java
+END

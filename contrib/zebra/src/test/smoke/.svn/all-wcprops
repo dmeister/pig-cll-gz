@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/smoke
+END
+zebra_smoke_run.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/smoke/zebra_smoke_run.pl
+END

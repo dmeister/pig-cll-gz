@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/asf/!svn/ver/1136214/pig/trunk/test
+END
+pigunit-tests
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1005230/pig/trunk/test/pigunit-tests
+END
+unit-tests
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/1100416/pig/trunk/test/unit-tests
+END
+hbase-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1077839/pig/trunk/test/hbase-site.xml
+END
+all-tests
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1005230/pig/trunk/test/all-tests
+END
+commit-tests
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1100416/pig/trunk/test/commit-tests
+END
+checkstyle-noframes-sorted.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/test/checkstyle-noframes-sorted.xsl
+END
+findbugsExcludeFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1036509/pig/trunk/test/findbugsExcludeFile.xml
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1005230/pig/trunk/test/checkstyle.xml
+END
+excluded-tests
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1087514/pig/trunk/test/excluded-tests
+END
+smoke-tests
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/1005230/pig/trunk/test/smoke-tests
+END

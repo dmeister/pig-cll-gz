@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1103840/pig/trunk/src/org/apache/pig/newplan
+END
+PColFilterExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1094671/pig/trunk/src/org/apache/pig/newplan/PColFilterExtractor.java
+END
+PlanWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/PlanWalker.java
+END
+BaseOperatorPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1078085/pig/trunk/src/org/apache/pig/newplan/BaseOperatorPlan.java
+END
+OperatorPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1078085/pig/trunk/src/org/apache/pig/newplan/OperatorPlan.java
+END
+PlanDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1098890/pig/trunk/src/org/apache/pig/newplan/PlanDumper.java
+END
+SubtreeDependencyOrderWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/SubtreeDependencyOrderWalker.java
+END
+PlanVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/PlanVisitor.java
+END
+ReverseDependencyOrderWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/ReverseDependencyOrderWalker.java
+END
+DotPlanDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1098890/pig/trunk/src/org/apache/pig/newplan/DotPlanDumper.java
+END
+PlanEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1050503/pig/trunk/src/org/apache/pig/newplan/PlanEdge.java
+END
+OperatorSubPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1078085/pig/trunk/src/org/apache/pig/newplan/OperatorSubPlan.java
+END
+DependencyOrderWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/DependencyOrderWalker.java
+END
+DepthFirstWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/DepthFirstWalker.java
+END
+ReverseDependencyOrderWalkerWOSeenChk.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1024384/pig/trunk/src/org/apache/pig/newplan/ReverseDependencyOrderWalkerWOSeenChk.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1088700/pig/trunk/src/org/apache/pig/newplan/Operator.java
+END

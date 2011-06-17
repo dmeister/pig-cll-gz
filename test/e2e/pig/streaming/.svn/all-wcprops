@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming
+END
+DieRandomly.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/DieRandomly.pl
+END
+GroupBy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/GroupBy.pl
+END
+PigStreaming.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/PigStreaming.pl
+END
+PigStreamingDepend.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/PigStreamingDepend.pl
+END
+Split.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/Split.pl
+END
+PigStreamingBad.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/PigStreamingBad.pl
+END
+PigStreamingModule.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/PigStreamingModule.pm
+END
+nameMap
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/streaming/nameMap
+END

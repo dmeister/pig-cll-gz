@@ -1,0 +1,80 @@
+10
+
+dir
+1136796
+http://svn.apache.org/repos/asf/pig/trunk/src/org/apache/pig/impl
+http://svn.apache.org/repos/asf
+
+
+
+2011-05-20T20:04:28.222428Z
+1125537
+rding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+PigContext.java
+file
+
+
+
+
+2011-06-17T08:13:26.000000Z
+1e7dd06addf6d54c39b59056553a5777
+2011-05-20T20:04:28.222428Z
+1125537
+rding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22174
+
+builtin
+dir
+
+io
+dir
+
+logicalLayer
+dir
+
+streaming
+dir
+
+plan
+dir
+
+util
+dir
+

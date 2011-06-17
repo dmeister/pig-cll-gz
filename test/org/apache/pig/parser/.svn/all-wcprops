@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1127656/pig/trunk/test/org/apache/pig/parser
+END
+TreePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1041246/pig/trunk/test/org/apache/pig/parser/TreePrinter.java
+END
+TestQueryLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1099929/pig/trunk/test/org/apache/pig/parser/TestQueryLexer.java
+END
+ParserTestingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1087789/pig/trunk/test/org/apache/pig/parser/ParserTestingUtils.java
+END
+TestLexer.pig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/parser/TestLexer.pig
+END
+TestColumnAliasConversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/parser/TestColumnAliasConversion.java
+END
+TestQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1127656/pig/trunk/test/org/apache/pig/parser/TestQueryParser.java
+END
+TestScalarVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1095771/pig/trunk/test/org/apache/pig/parser/TestScalarVisitor.java
+END
+TestAST.pig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1127656/pig/trunk/test/org/apache/pig/parser/TestAST.pig
+END
+TestSchemaAliasVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1099121/pig/trunk/test/org/apache/pig/parser/TestSchemaAliasVisitor.java
+END
+TestParser.pig
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1078085/pig/trunk/test/org/apache/pig/parser/TestParser.pig
+END
+TestDefaultDataTypeInserter.pig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1041246/pig/trunk/test/org/apache/pig/parser/TestDefaultDataTypeInserter.pig
+END
+ParsingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1044134/pig/trunk/test/org/apache/pig/parser/ParsingFailureException.java
+END
+TestLogicalPlanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1102839/pig/trunk/test/org/apache/pig/parser/TestLogicalPlanGenerator.java
+END
+TestUnionOnSchemaSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1103840/pig/trunk/test/org/apache/pig/parser/TestUnionOnSchemaSetter.java
+END
+TestAstValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1085612/pig/trunk/test/org/apache/pig/parser/TestAstValidator.java
+END
+TestErrorHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1126723/pig/trunk/test/org/apache/pig/parser/TestErrorHandling.java
+END

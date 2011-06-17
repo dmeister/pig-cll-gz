@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types
+END
+TestSchemaRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestSchemaRecord.java
+END
+TestStorageMisc1.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageMisc1.java
+END
+TestStorageMisc2.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageMisc2.java
+END
+TestStorageMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageMap.java
+END
+TestStorageRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageRecord.java
+END
+TestStorageMisc3.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageMisc3.java
+END
+TestCheckin.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestCheckin.java
+END
+TestZebraTupleTostring.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestZebraTupleTostring.java
+END
+TestStorageGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageGrammar.java
+END
+TestColumnGroupName.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestColumnGroupName.java
+END
+TestSchemaCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestSchemaCollection.java
+END
+TestTypeCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestTypeCheck.java
+END
+TestStorageCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageCollection.java
+END
+TestStorePrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorePrimitive.java
+END
+TestStorageRecord2.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestStorageRecord2.java
+END
+TestSchemaAnonymousCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestSchemaAnonymousCollection.java
+END
+TestSchemaPrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestSchemaPrimitive.java
+END
+TestSchemaMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/types/TestSchemaMap.java
+END

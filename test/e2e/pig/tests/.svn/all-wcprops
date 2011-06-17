@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/tests
+END
+bigdata.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/tests/bigdata.conf
+END
+cmdline.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/tests/cmdline.conf
+END
+nightly.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/tests/nightly.conf
+END
+grunt.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/tests/grunt.conf
+END
+multiquery.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/tests/multiquery.conf
+END
+negative.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/tests/negative.conf
+END
+streaming_local.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1101209/pig/trunk/test/e2e/pig/tests/streaming_local.conf
+END
+turing_jython.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/tests/turing_jython.conf
+END
+streaming.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1101209/pig/trunk/test/e2e/pig/tests/streaming.conf
+END

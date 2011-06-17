@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/impl/harnesses
+END
+MessagingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/impl/harnesses/MessagingServer.java
+END
+CoordinatorHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/impl/harnesses/CoordinatorHarness.java
+END
+MonitorAgentHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/impl/harnesses/MonitorAgentHarness.java
+END
+MessagingClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/impl/harnesses/MessagingClient.java
+END

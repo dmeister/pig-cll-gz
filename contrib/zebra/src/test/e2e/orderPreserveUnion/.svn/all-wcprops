@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion
+END
+2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/2.txt
+END
+unionDouble.pig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/unionDouble.pig
+END
+unionInt.pig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/unionInt.pig
+END
+unionLong.pig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/unionLong.pig
+END
+unionFloat.pig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/unionFloat.pig
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/readme
+END
+unionBytes.pig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/unionBytes.pig
+END
+unionString.pig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/unionString.pig
+END
+1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/orderPreserveUnion/1.txt
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1101306/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage
+END
+AllLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1035726/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/AllLoader.java
+END
+SequenceFileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/SequenceFileLoader.java
+END
+MultiStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/MultiStorage.java
+END
+CSVExcelStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1084354/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/CSVExcelStorage.java
+END
+RegExLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/RegExLoader.java
+END
+CSVLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/CSVLoader.java
+END
+HiveColumnarLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/HiveColumnarLoader.java
+END
+PigStorageSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1101306/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/PigStorageSchema.java
+END
+MyRegExLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/MyRegExLoader.java
+END
+XMLLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1074670/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/XMLLoader.java
+END
+DBStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/DBStorage.java
+END
+JsonMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1082836/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/JsonMetadata.java
+END
+HadoopJobHistoryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/HadoopJobHistoryLoader.java
+END

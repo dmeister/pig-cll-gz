@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1025789/pig/trunk/test/org/apache/pig/pigunit
+END
+PigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1025789/pig/trunk/test/org/apache/pig/pigunit/PigTest.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/pigunit/Cluster.java
+END
+MiniClusterRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/pigunit/MiniClusterRunner.java
+END

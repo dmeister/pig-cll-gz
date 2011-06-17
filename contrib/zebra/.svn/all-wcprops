@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1130321/pig/trunk/contrib/zebra
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/CHANGES.txt
+END
+build-contrib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/build-contrib.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/build.xml
+END

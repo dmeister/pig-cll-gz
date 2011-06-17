@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1086824/pig/trunk/src/org/apache/pig/impl/builtin
+END
+PoissonSampleLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/builtin/PoissonSampleLoader.java
+END
+GFAny.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/builtin/GFAny.java
+END
+ReadScalars.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1045314/pig/trunk/src/org/apache/pig/impl/builtin/ReadScalars.java
+END
+GFReplicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/builtin/GFReplicate.java
+END
+FindQuantiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/builtin/FindQuantiles.java
+END
+GFCross.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1086824/pig/trunk/src/org/apache/pig/impl/builtin/GFCross.java
+END
+DefaultIndexableLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1071864/pig/trunk/src/org/apache/pig/impl/builtin/DefaultIndexableLoader.java
+END
+IdentityColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1037399/pig/trunk/src/org/apache/pig/impl/builtin/IdentityColumn.java
+END
+PartitionSkewedKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1043795/pig/trunk/src/org/apache/pig/impl/builtin/PartitionSkewedKeys.java
+END
+SampleLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/builtin/SampleLoader.java
+END
+GetMemNumRows.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/builtin/GetMemNumRows.java
+END
+RandomSampleLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/builtin/RandomSampleLoader.java
+END

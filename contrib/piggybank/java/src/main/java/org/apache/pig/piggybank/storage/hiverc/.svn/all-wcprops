@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1034623/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/hiverc
+END
+HiveRCSchemaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/hiverc/HiveRCSchemaUtil.java
+END
+HiveRCRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/hiverc/HiveRCRecordReader.java
+END
+HiveRCInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/hiverc/HiveRCInputFormat.java
+END

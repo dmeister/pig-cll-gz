@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress
+END
+stress_join_01.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_join_01.pig
+END
+stress_join_02.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_join_02.pig
+END
+join_after_union10k.pig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join_after_union10k.pig
+END
+stress_join_03.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_join_03.pig
+END
+stress_join_04.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_join_04.pig
+END
+stress_join_05.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_join_05.pig
+END
+join2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join2.pig
+END
+join_after_union.pig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join_after_union.pig
+END
+stress_sort_01.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_sort_01.pig
+END
+stress_sort_02.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_sort_02.pig
+END
+collecion4.pig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/collecion4.pig
+END
+stress_sort_03.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_sort_03.pig
+END
+stress_load_store_00.pig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_load_store_00.pig
+END
+stress_load_store_01.pig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_load_store_01.pig
+END
+stress_load_store_02.pig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_load_store_02.pig
+END
+join.pig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join.pig
+END
+stress_load_store_03.pig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_load_store_03.pig
+END
+stress_load_store_04.pig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_load_store_04.pig
+END
+stress_load_store_05.pig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_load_store_05.pig
+END
+join_jira.pig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join_jira.pig
+END
+bad_join.pig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/bad_join.pig
+END
+stress_sort_01_save.pig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_sort_01_save.pig
+END
+union1.pig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/union1.pig
+END
+join_after_union2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join_after_union2.pig
+END
+union2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/union2.pig
+END
+join_after_union3.pig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join_after_union3.pig
+END
+union3.pig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/union3.pig
+END
+union4.pig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/union4.pig
+END
+stress_union_02_2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_union_02_2.pig
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/readme
+END
+join_jira1.pig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/join_jira1.pig
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/config
+END
+testjoing1.pig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/testjoing1.pig
+END
+sortSimpleString.pig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/sortSimpleString.pig
+END
+stress_union_01.pig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_union_01.pig
+END
+stress_union_02.pig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_union_02.pig
+END
+stress_union_03.pig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_union_03.pig
+END
+stress_union_04.pig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/stress/stress_union_04.pig
+END

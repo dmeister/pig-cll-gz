@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/asf/!svn/ver/1005230/pig/trunk/conf
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1005230/pig/trunk/conf/log4j.properties
+END
+pig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1005230/pig/trunk/conf/pig.properties
+END
+pig-default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1005230/pig/trunk/conf/pig-default.properties
+END

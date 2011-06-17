@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/impl/logicalLayer
+END
+CanonicalNamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/logicalLayer/CanonicalNamer.java
+END
+FrontendException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1090335/pig/trunk/src/org/apache/pig/impl/logicalLayer/FrontendException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/impl/logicalLayer/package.html
+END

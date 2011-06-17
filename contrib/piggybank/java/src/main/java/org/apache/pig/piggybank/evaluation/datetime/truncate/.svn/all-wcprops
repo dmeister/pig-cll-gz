@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate
+END
+ISOToMinute.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOToMinute.java
+END
+ISOToMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOToMonth.java
+END
+ISOToSecond.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOToSecond.java
+END
+ISOToWeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOToWeek.java
+END
+ISOHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOHelper.java
+END
+ISOToDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOToDay.java
+END
+ISOToHour.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOToHour.java
+END
+ISOToYear.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1061456/pig/trunk/contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/evaluation/datetime/truncate/ISOToYear.java
+END

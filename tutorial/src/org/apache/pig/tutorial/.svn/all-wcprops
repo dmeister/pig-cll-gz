@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial
+END
+TutorialUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial/TutorialUtil.java
+END
+ScoreGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial/ScoreGenerator.java
+END
+TutorialTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial/TutorialTest.java
+END
+NonURLDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial/NonURLDetector.java
+END
+ExtractHour.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial/ExtractHour.java
+END
+NGramGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial/NGramGenerator.java
+END
+ToLower.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/src/org/apache/pig/tutorial/ToLower.java
+END

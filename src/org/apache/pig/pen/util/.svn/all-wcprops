@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1052348/pig/trunk/src/org/apache/pig/pen/util
+END
+DisplayExamples.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1050503/pig/trunk/src/org/apache/pig/pen/util/DisplayExamples.java
+END
+ExampleTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1045314/pig/trunk/src/org/apache/pig/pen/util/ExampleTuple.java
+END
+LineageTracer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1045314/pig/trunk/src/org/apache/pig/pen/util/LineageTracer.java
+END
+PreOrderDepthFirstWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1050503/pig/trunk/src/org/apache/pig/pen/util/PreOrderDepthFirstWalker.java
+END
+MetricEvaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1050503/pig/trunk/src/org/apache/pig/pen/util/MetricEvaluation.java
+END

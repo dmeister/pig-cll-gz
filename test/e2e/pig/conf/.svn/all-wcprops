@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/conf
+END
+testpropertiesfile.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/conf/testpropertiesfile.conf
+END
+existing_deployer.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1101560/pig/trunk/test/e2e/pig/conf/existing_deployer.conf
+END
+default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1136214/pig/trunk/test/e2e/pig/conf/default.conf
+END

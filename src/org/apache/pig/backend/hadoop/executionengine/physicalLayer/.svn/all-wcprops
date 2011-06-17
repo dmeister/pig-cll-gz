@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1125124/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer
+END
+PigLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/PigLogger.java
+END
+POPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/POPrinter.java
+END
+POStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1080747/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/POStatus.java
+END
+LogicalToPhysicalTranslatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/LogicalToPhysicalTranslatorException.java
+END
+PhysicalOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1089537/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/PhysicalOperator.java
+END
+PigProgressable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/PigProgressable.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/Result.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/physicalLayer/package.html
+END

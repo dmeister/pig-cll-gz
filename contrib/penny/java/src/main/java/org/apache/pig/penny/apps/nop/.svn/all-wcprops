@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/nop
+END
+NOPCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/nop/NOPCoordinator.java
+END
+NOPMonitorAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/nop/NOPMonitorAgent.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/nop/Main.java
+END

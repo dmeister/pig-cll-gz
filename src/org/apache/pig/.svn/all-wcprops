@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1136743/pig/trunk/src/org/apache/pig
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/Expression.java
+END
+SortColInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/SortColInfo.java
+END
+ResourceStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/ResourceStatistics.java
+END
+PigCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/PigCounters.java
+END
+SortInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/SortInfo.java
+END
+PigWarning.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1086206/pig/trunk/src/org/apache/pig/PigWarning.java
+END
+FuncSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/FuncSpec.java
+END
+IndexableLoadFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/IndexableLoadFunc.java
+END
+StoreFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1028582/pig/trunk/src/org/apache/pig/StoreFunc.java
+END
+Algebraic.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/Algebraic.java
+END
+LoadMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/LoadMetadata.java
+END
+ExecType.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/ExecType.java
+END
+StoreFuncInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1028582/pig/trunk/src/org/apache/pig/StoreFuncInterface.java
+END
+StoreMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/StoreMetadata.java
+END
+PigToStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/PigToStream.java
+END
+LoadStoreCaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/LoadStoreCaster.java
+END
+PigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1094833/pig/trunk/src/org/apache/pig/PigException.java
+END
+OrderedLoadFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/OrderedLoadFunc.java
+END
+FilterFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/FilterFunc.java
+END
+EvalFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1071857/pig/trunk/src/org/apache/pig/EvalFunc.java
+END
+PigServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1126723/pig/trunk/src/org/apache/pig/PigServer.java
+END
+LoadPushDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1101602/pig/trunk/src/org/apache/pig/LoadPushDown.java
+END
+ResourceSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1126815/pig/trunk/src/org/apache/pig/ResourceSchema.java
+END
+PigRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/PigRunner.java
+END
+FileInputLoadFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/FileInputLoadFunc.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/package.html
+END
+Accumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/Accumulator.java
+END
+LoadCaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1080048/pig/trunk/src/org/apache/pig/LoadCaster.java
+END
+FileSplitComparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/FileSplitComparable.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1103780/pig/trunk/src/org/apache/pig/Main.java
+END
+CollectableLoadFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/CollectableLoadFunc.java
+END
+ComparisonFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/ComparisonFunc.java
+END
+LoadFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1029741/pig/trunk/src/org/apache/pig/LoadFunc.java
+END
+StoreCaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1034623/pig/trunk/src/org/apache/pig/StoreCaster.java
+END
+StreamToPig.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/StreamToPig.java
+END

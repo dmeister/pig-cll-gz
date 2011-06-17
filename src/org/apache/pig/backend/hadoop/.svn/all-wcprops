@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1136743/pig/trunk/src/org/apache/pig/backend/hadoop
+END
+HDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1052354/pig/trunk/src/org/apache/pig/backend/hadoop/HDataType.java
+END
+DoubleWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/DoubleWritable.java
+END

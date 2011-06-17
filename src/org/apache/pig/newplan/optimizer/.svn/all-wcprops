@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1102932/pig/trunk/src/org/apache/pig/newplan/optimizer
+END
+Transformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/optimizer/Transformer.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1102932/pig/trunk/src/org/apache/pig/newplan/optimizer/Rule.java
+END
+PlanTransformListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/optimizer/PlanTransformListener.java
+END
+PlanOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1057974/pig/trunk/src/org/apache/pig/newplan/optimizer/PlanOptimizer.java
+END

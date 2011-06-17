@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/streaming
+END
+DumpStreamerBad.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/streaming/DumpStreamerBad.java
+END
+StreamingDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/streaming/StreamingDump.java
+END
+DumpStreamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/streaming/DumpStreamer.java
+END

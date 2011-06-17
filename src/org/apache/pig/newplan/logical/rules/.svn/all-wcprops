@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1102892/pig/trunk/src/org/apache/pig/newplan/logical/rules
+END
+SplitFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/SplitFilter.java
+END
+ImplicitSplitInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1078085/pig/trunk/src/org/apache/pig/newplan/logical/rules/ImplicitSplitInserter.java
+END
+GroupByConstParallelSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1037088/pig/trunk/src/org/apache/pig/newplan/logical/rules/GroupByConstParallelSetter.java
+END
+OptimizerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1102221/pig/trunk/src/org/apache/pig/newplan/logical/rules/OptimizerUtils.java
+END
+MergeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1023931/pig/trunk/src/org/apache/pig/newplan/logical/rules/MergeFilter.java
+END
+ColumnPruneHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1086206/pig/trunk/src/org/apache/pig/newplan/logical/rules/ColumnPruneHelper.java
+END
+LoadTypeCastInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/LoadTypeCastInserter.java
+END
+TypeCastInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1080049/pig/trunk/src/org/apache/pig/newplan/logical/rules/TypeCastInserter.java
+END
+LoadStoreFuncDupSignatureValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1084431/pig/trunk/src/org/apache/pig/newplan/logical/rules/LoadStoreFuncDupSignatureValidator.java
+END
+PushDownForEachFlatten.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1102221/pig/trunk/src/org/apache/pig/newplan/logical/rules/PushDownForEachFlatten.java
+END
+ColumnMapKeyPrune.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/ColumnMapKeyPrune.java
+END
+LogicalExpressionSimplifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1102892/pig/trunk/src/org/apache/pig/newplan/logical/rules/LogicalExpressionSimplifier.java
+END
+AddForEach.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/AddForEach.java
+END
+LimitOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/LimitOptimizer.java
+END
+WholePlanRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/WholePlanRule.java
+END
+DuplicateForEachColumnRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1068502/pig/trunk/src/org/apache/pig/newplan/logical/rules/DuplicateForEachColumnRewrite.java
+END
+DNFPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/DNFPlan.java
+END
+PartitionFilterOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1094671/pig/trunk/src/org/apache/pig/newplan/logical/rules/PartitionFilterOptimizer.java
+END
+MapKeysPruneHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1083612/pig/trunk/src/org/apache/pig/newplan/logical/rules/MapKeysPruneHelper.java
+END
+StreamTypeCastInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/StreamTypeCastInserter.java
+END
+InputOutputFileValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1088700/pig/trunk/src/org/apache/pig/newplan/logical/rules/InputOutputFileValidator.java
+END
+ConstExpEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1078085/pig/trunk/src/org/apache/pig/newplan/logical/rules/ConstExpEvaluator.java
+END
+NotConversionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/NotConversionVisitor.java
+END
+DNFExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/DNFExpression.java
+END
+ColumnPruneVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1096606/pig/trunk/src/org/apache/pig/newplan/logical/rules/ColumnPruneVisitor.java
+END
+MergeForEach.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1086206/pig/trunk/src/org/apache/pig/newplan/logical/rules/MergeForEach.java
+END
+DNFPlanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1044564/pig/trunk/src/org/apache/pig/newplan/logical/rules/DNFPlanGenerator.java
+END
+FilterAboveForeach.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1102221/pig/trunk/src/org/apache/pig/newplan/logical/rules/FilterAboveForeach.java
+END
+PushUpFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1102221/pig/trunk/src/org/apache/pig/newplan/logical/rules/PushUpFilter.java
+END
+LogicalExpressionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/newplan/logical/rules/LogicalExpressionProxy.java
+END

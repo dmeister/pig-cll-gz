@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning
+END
+map4.pig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/map4.pig
+END
+2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/2.txt
+END
+mforeach2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/mforeach2.pig
+END
+orderby.pig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/orderby.pig
+END
+foreach.pig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/foreach.pig
+END
+mforeach3.pig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/mforeach3.pig
+END
+union1.pig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/union1.pig
+END
+union2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/union2.pig
+END
+union3.pig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/union3.pig
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/readme
+END
+merge1.pig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/merge1.pig
+END
+merge2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/merge2.pig
+END
+join2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/join2.pig
+END
+merge3.pig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/merge3.pig
+END
+mforeach.pig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/mforeach.pig
+END
+merge_question.pig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/merge_question.pig
+END
+merge_rh.pig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/merge_rh.pig
+END
+orderby2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/orderby2.pig
+END
+union.pig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/union.pig
+END
+j.pig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/j.pig
+END
+foreach2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/foreach2.pig
+END
+m.pig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/m.pig
+END
+map1.pig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/map1.pig
+END
+merge.pig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/merge.pig
+END
+map2.pig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/map2.pig
+END
+join.pig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/join.pig
+END
+map3.pig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/map3.pig
+END
+1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/e2e/pruning/1.txt
+END

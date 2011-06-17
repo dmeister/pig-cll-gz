@@ -1,0 +1,89 @@
+10
+
+dir
+1136796
+http://svn.apache.org/repos/asf/pig/trunk/test/e2e/pig
+http://svn.apache.org/repos/asf
+
+
+
+2011-06-15T21:54:50.441816Z
+1136214
+gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+tools
+dir
+
+udfs
+dir
+
+tests
+dir
+
+paramfiles
+dir
+
+conf
+dir
+
+deployers
+dir
+
+lib
+dir
+
+streaming
+dir
+
+Makefile
+file
+
+
+
+
+2011-06-17T08:13:21.000000Z
+5c550fc9b26e434dfa1421d6e4df592c
+2011-06-15T21:54:50.441816Z
+1136214
+gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4725
+
+drivers
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/impl/logicalLayer/schema
+END
+SchemaMergeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/logicalLayer/schema/SchemaMergeException.java
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/impl/logicalLayer/schema/Schema.java
+END
+SchemaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/logicalLayer/schema/SchemaUtil.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1085614/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/schema
+END
+ColumnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1085614/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/schema/ColumnType.java
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/schema/Schema.java
+END
+SchemaParser.jjt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/schema/SchemaParser.jjt
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/schema/package-info.java
+END

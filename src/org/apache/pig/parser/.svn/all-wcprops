@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1127656/pig/trunk/src/org/apache/pig/parser
+END
+PigRecognitionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1088700/pig/trunk/src/org/apache/pig/parser/PigRecognitionException.java
+END
+AstPrinter.g
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1102461/pig/trunk/src/org/apache/pig/parser/AstPrinter.g
+END
+PigMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1126710/pig/trunk/src/org/apache/pig/parser/PigMacro.java
+END
+LogicalPlanGenerator.g
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1102461/pig/trunk/src/org/apache/pig/parser/LogicalPlanGenerator.g
+END
+AliasMasker.g
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1099929/pig/trunk/src/org/apache/pig/parser/AliasMasker.g
+END
+PigParserNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1101259/pig/trunk/src/org/apache/pig/parser/PigParserNode.java
+END
+AstValidator.g
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1102461/pig/trunk/src/org/apache/pig/parser/AstValidator.g
+END
+QueryParserUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1101259/pig/trunk/src/org/apache/pig/parser/QueryParserUtils.java
+END
+InvalidCommandException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1084358/pig/trunk/src/org/apache/pig/parser/InvalidCommandException.java
+END
+StreamingCommandUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/parser/StreamingCommandUtils.java
+END
+QueryLexer.g
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1127656/pig/trunk/src/org/apache/pig/parser/QueryLexer.g
+END
+ParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1089102/pig/trunk/src/org/apache/pig/parser/ParserException.java
+END
+PigParserNodeAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1101259/pig/trunk/src/org/apache/pig/parser/PigParserNodeAdaptor.java
+END
+NonProjectExpressionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1084358/pig/trunk/src/org/apache/pig/parser/NonProjectExpressionException.java
+END
+DryRunGruntParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1125512/pig/trunk/src/org/apache/pig/parser/DryRunGruntParser.java
+END
+InvalidPathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1084358/pig/trunk/src/org/apache/pig/parser/InvalidPathException.java
+END
+QueryParserStringStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1087789/pig/trunk/src/org/apache/pig/parser/QueryParserStringStream.java
+END
+ParserValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1084358/pig/trunk/src/org/apache/pig/parser/ParserValidationException.java
+END
+FunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1078085/pig/trunk/src/org/apache/pig/parser/FunctionType.java
+END
+QueryParser.g
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1127656/pig/trunk/src/org/apache/pig/parser/QueryParser.g
+END
+InvalidScalarProjectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1092844/pig/trunk/src/org/apache/pig/parser/InvalidScalarProjectionException.java
+END
+DuplicatedSchemaAliasException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1088700/pig/trunk/src/org/apache/pig/parser/DuplicatedSchemaAliasException.java
+END
+SourceLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1101259/pig/trunk/src/org/apache/pig/parser/SourceLocation.java
+END
+UndefinedAliasException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1088700/pig/trunk/src/org/apache/pig/parser/UndefinedAliasException.java
+END
+LogicalPlanBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/parser/LogicalPlanBuilder.java
+END
+QueryParserStreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1028531/pig/trunk/src/org/apache/pig/parser/QueryParserStreamUtil.java
+END
+PlanGenerationFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1089641/pig/trunk/src/org/apache/pig/parser/PlanGenerationFailureException.java
+END
+QueryParserDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1101259/pig/trunk/src/org/apache/pig/parser/QueryParserDriver.java
+END
+QueryParserFileStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1028531/pig/trunk/src/org/apache/pig/parser/QueryParserFileStream.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/scripts
+END
+script1-hadoop.pig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/scripts/script1-hadoop.pig
+END
+script1-local.pig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/scripts/script1-local.pig
+END
+script2-hadoop.pig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/scripts/script2-hadoop.pig
+END
+script2-local.pig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1005230/pig/trunk/tutorial/scripts/script2-local.pig
+END

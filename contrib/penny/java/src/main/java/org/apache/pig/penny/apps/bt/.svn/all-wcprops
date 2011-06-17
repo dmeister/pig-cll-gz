@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/bt
+END
+BTPropagateTaintMonitorAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/bt/BTPropagateTaintMonitorAgent.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/bt/Main.java
+END
+BTCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/bt/BTCoordinator.java
+END
+BTInjectTaintMonitorAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/bt/BTInjectTaintMonitorAgent.java
+END
+BTMatchTaintMonitorAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/bt/BTMatchTaintMonitorAgent.java
+END

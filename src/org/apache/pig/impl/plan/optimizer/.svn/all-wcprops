@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/impl/plan/optimizer
+END
+OptimizerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1100416/pig/trunk/src/org/apache/pig/impl/plan/optimizer/OptimizerException.java
+END

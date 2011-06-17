@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred
+END
+TableUnionExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/TableUnionExpr.java
+END
+ZebraProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/ZebraProjection.java
+END
+TableExprUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/TableExprUtils.java
+END
+TableRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/TableRecordReader.java
+END
+CompositeTableExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/CompositeTableExpr.java
+END
+ZebraStorageHint.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/ZebraStorageHint.java
+END
+ZebraOutputPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/ZebraOutputPartition.java
+END
+TableInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/TableInputFormat.java
+END
+BasicTableOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/BasicTableOutputFormat.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/package-info.java
+END
+ZebraSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/ZebraSchema.java
+END
+NullScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/NullScanner.java
+END
+TableExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/TableExpr.java
+END
+ZebraSortInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/ZebraSortInfo.java
+END
+BasicTableExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/BasicTableExpr.java
+END
+CachedTableScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/mapred/CachedTableScanner.java
+END

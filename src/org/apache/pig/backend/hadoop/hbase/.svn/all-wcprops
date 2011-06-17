@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1132508/pig/trunk/src/org/apache/pig/backend/hadoop/hbase
+END
+HBaseBinaryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1080048/pig/trunk/src/org/apache/pig/backend/hadoop/hbase/HBaseBinaryConverter.java
+END
+HBaseTableInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1077839/pig/trunk/src/org/apache/pig/backend/hadoop/hbase/HBaseTableInputFormat.java
+END
+HBaseStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1132508/pig/trunk/src/org/apache/pig/backend/hadoop/hbase/HBaseStorage.java
+END

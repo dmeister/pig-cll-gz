@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/storefunc
+END
+DumpLoaderBad.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/storefunc/DumpLoaderBad.java
+END
+StringStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/storefunc/StringStore.java
+END
+PigPerformanceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/storefunc/PigPerformanceLoader.java
+END
+SimpleCollectableLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/storefunc/SimpleCollectableLoader.java
+END
+StringStoreBad.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/storefunc/StringStoreBad.java
+END
+DumpLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1087340/pig/trunk/test/e2e/pig/udfs/java/org/apache/pig/test/udf/storefunc/DumpLoader.java
+END

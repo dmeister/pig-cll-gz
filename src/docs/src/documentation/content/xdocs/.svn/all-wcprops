@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1136210/pig/trunk/src/docs/src/documentation/content/xdocs
+END
+basic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1136210/pig/trunk/src/docs/src/documentation/content/xdocs/basic.xml
+END
+zebra_reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1005230/pig/trunk/src/docs/src/documentation/content/xdocs/zebra_reference.xml
+END
+pig-index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1136210/pig/trunk/src/docs/src/documentation/content/xdocs/pig-index.xml
+END
+zebra_users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/src/docs/src/documentation/content/xdocs/zebra_users.xml
+END
+cmds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1128482/pig/trunk/src/docs/src/documentation/content/xdocs/cmds.xml
+END
+zebra_mapreduce.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1005230/pig/trunk/src/docs/src/documentation/content/xdocs/zebra_mapreduce.xml
+END
+zebra_overview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1044156/pig/trunk/src/docs/src/documentation/content/xdocs/zebra_overview.xml
+END
+tabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1050082/pig/trunk/src/docs/src/documentation/content/xdocs/tabs.xml
+END
+func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1128482/pig/trunk/src/docs/src/documentation/content/xdocs/func.xml
+END
+perf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1136210/pig/trunk/src/docs/src/documentation/content/xdocs/perf.xml
+END
+start.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1128482/pig/trunk/src/docs/src/documentation/content/xdocs/start.xml
+END
+zebra_pig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1050082/pig/trunk/src/docs/src/documentation/content/xdocs/zebra_pig.xml
+END
+cont.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1128482/pig/trunk/src/docs/src/documentation/content/xdocs/cont.xml
+END
+site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1126714/pig/trunk/src/docs/src/documentation/content/xdocs/site.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1128482/pig/trunk/src/docs/src/documentation/content/xdocs/index.xml
+END
+udf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1136210/pig/trunk/src/docs/src/documentation/content/xdocs/udf.xml
+END
+zebra_stream.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1005230/pig/trunk/src/docs/src/documentation/content/xdocs/zebra_stream.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1128482/pig/trunk/src/docs/src/documentation/content/xdocs/test.xml
+END
+pigunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1025789/pig/trunk/src/docs/src/documentation/content/xdocs/pigunit.xml
+END

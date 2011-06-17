@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1132800/pig/trunk/test/e2e/harness/test/tests
+END
+deploy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1091642/pig/trunk/test/e2e/harness/test/tests/deploy.conf
+END
+test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1132800/pig/trunk/test/e2e/harness/test/tests/test.conf
+END

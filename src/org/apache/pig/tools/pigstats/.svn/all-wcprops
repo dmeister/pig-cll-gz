@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1125072/pig/trunk/src/org/apache/pig/tools/pigstats
+END
+OutputStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1056536/pig/trunk/src/org/apache/pig/tools/pigstats/OutputStats.java
+END
+PigProgressNotificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1056536/pig/trunk/src/org/apache/pig/tools/pigstats/PigProgressNotificationListener.java
+END
+ScriptState.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1085612/pig/trunk/src/org/apache/pig/tools/pigstats/ScriptState.java
+END
+PigStatusReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/tools/pigstats/PigStatusReporter.java
+END
+EmbeddedPigStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1056536/pig/trunk/src/org/apache/pig/tools/pigstats/EmbeddedPigStats.java
+END
+SimplePigStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1076044/pig/trunk/src/org/apache/pig/tools/pigstats/SimplePigStats.java
+END
+JobStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1125072/pig/trunk/src/org/apache/pig/tools/pigstats/JobStats.java
+END
+PigStatsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1125072/pig/trunk/src/org/apache/pig/tools/pigstats/PigStatsUtil.java
+END
+InputStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/tools/pigstats/InputStats.java
+END
+PigStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1078085/pig/trunk/src/org/apache/pig/tools/pigstats/PigStats.java
+END

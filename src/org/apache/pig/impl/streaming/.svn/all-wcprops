@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming
+END
+DefaultInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/DefaultInputHandler.java
+END
+DefaultOutputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/DefaultOutputHandler.java
+END
+HandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/HandlerFactory.java
+END
+StreamingCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/StreamingCommand.java
+END
+ExecutableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/ExecutableManager.java
+END
+FileInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/FileInputHandler.java
+END
+InputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/InputHandler.java
+END
+FileOutputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/FileOutputHandler.java
+END
+OutputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/impl/streaming/OutputHandler.java
+END

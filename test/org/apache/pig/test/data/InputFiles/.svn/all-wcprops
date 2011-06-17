@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/InputFiles
+END
+passwd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/InputFiles/passwd
+END
+jsTst1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/InputFiles/jsTst1.txt
+END
+jsTst2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/InputFiles/jsTst2.txt
+END
+jsTst5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1005230/pig/trunk/test/org/apache/pig/test/data/InputFiles/jsTst5.txt
+END

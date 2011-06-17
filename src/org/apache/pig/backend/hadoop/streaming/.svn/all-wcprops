@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1136743/pig/trunk/src/org/apache/pig/backend/hadoop/streaming
+END
+HadoopExecutableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1136743/pig/trunk/src/org/apache/pig/backend/hadoop/streaming/HadoopExecutableManager.java
+END

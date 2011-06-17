@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/asf/!svn/ver/1092378/pig/trunk/ivy
+END
+pigsmoke-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1060579/pig/trunk/ivy/pigsmoke-template.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1092378/pig/trunk/ivy/ivysettings.xml
+END
+libraries.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1092378/pig/trunk/ivy/libraries.properties
+END
+pig-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/1026518/pig/trunk/ivy/pig-template.xml
+END
+pigunit-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1060579/pig/trunk/ivy/pigunit-template.xml
+END
+pig.pom
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/asf/!svn/ver/1073977/pig/trunk/ivy/pig.pom
+END

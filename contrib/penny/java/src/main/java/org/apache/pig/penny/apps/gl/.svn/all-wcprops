@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/gl
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/gl/Main.java
+END
+GLCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/gl/GLCoordinator.java
+END
+GoldenLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/gl/GoldenLogic.java
+END
+GLMonitorAgent1.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/gl/GLMonitorAgent1.java
+END
+GLMonitorAgent2.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/apps/gl/GLMonitorAgent2.java
+END

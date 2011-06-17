@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1070662/pig/trunk/lib-src/bzip2/org/apache/tools/bzip2r
+END
+BZip2Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1005230/pig/trunk/lib-src/bzip2/org/apache/tools/bzip2r/BZip2Constants.java
+END
+CBZip2InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1070662/pig/trunk/lib-src/bzip2/org/apache/tools/bzip2r/CBZip2InputStream.java
+END
+CBZip2OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1005230/pig/trunk/lib-src/bzip2/org/apache/tools/bzip2r/CBZip2OutputStream.java
+END
+CRC.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/lib-src/bzip2/org/apache/tools/bzip2r/CRC.java
+END

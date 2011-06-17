@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io
+END
+TestDropColumnGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestDropColumnGroup.java
+END
+TestColumnGroupName4.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupName4.java
+END
+TestSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestSchema.java
+END
+TestColumnGroupName6.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupName6.java
+END
+TestNegative.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestNegative.java
+END
+TestNonDefaultWholeMapSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestNonDefaultWholeMapSplit.java
+END
+TestColumnGroupSplits.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupSplits.java
+END
+TestBasicTableProjections.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestBasicTableProjections.java
+END
+TestSortedBasicTableSplits.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestSortedBasicTableSplits.java
+END
+TestColumnGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroup.java
+END
+TestRecordMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestRecordMap.java
+END
+TestMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestMap.java
+END
+TestColumnGroupSchemas.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupSchemas.java
+END
+TestColumnGroupReaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupReaders.java
+END
+TestMapSplitSchemaStorageColumnOutOfOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestMapSplitSchemaStorageColumnOutOfOrder.java
+END
+TestColumnGroupWithWorkPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupWithWorkPath.java
+END
+TestDuplicateMapKeyInDifferentCGs.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestDuplicateMapKeyInDifferentCGs.java
+END
+TestColumnGroupName1.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupName1.java
+END
+TestColumnGroupOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupOpen.java
+END
+TestColumnGroupName3.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupName3.java
+END
+TestRecord2Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestRecord2Map.java
+END
+TestRecord3Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestRecord3Map.java
+END
+TestColumnGroupName5.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupName5.java
+END
+TestMapOfRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestMapOfRecord.java
+END
+TestCheckin.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestCheckin.java
+END
+TestColumnGroupInserters.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupInserters.java
+END
+TestColumnNameGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnNameGroup.java
+END
+TestRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestRecord.java
+END
+TestTypeCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestTypeCheck.java
+END
+TestBasicTableMapSplits.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestBasicTableMapSplits.java
+END
+TestBasicTableSplits.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestBasicTableSplits.java
+END
+TestMixedType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestMixedType1.java
+END
+TestBasicTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestBasicTable.java
+END
+TestSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestSimple.java
+END
+TestProjectionOnFullMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestProjectionOnFullMap.java
+END
+TestColumnGroupProjections.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupProjections.java
+END
+TestWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestWrite.java
+END
+TestCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestCollection.java
+END
+TestColumnGroupName2.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnGroupName2.java
+END
+TestColumnName.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/test/org/apache/hadoop/zebra/io/TestColumnName.java
+END

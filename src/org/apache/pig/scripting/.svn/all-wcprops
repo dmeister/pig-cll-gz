@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1125537/pig/trunk/src/org/apache/pig/scripting
+END
+Pig.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1102816/pig/trunk/src/org/apache/pig/scripting/Pig.java
+END
+SyncProgressNotificationAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1056536/pig/trunk/src/org/apache/pig/scripting/SyncProgressNotificationAdaptor.java
+END
+ScriptPigContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1073977/pig/trunk/src/org/apache/pig/scripting/ScriptPigContext.java
+END
+ScriptEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1096086/pig/trunk/src/org/apache/pig/scripting/ScriptEngine.java
+END
+BoundScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1102380/pig/trunk/src/org/apache/pig/scripting/BoundScript.java
+END

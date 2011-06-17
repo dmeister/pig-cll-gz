@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types
+END
+TableStorageParser.jjt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/TableStorageParser.jjt
+END
+SortInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/SortInfo.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/package-info.java
+END
+TypesUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/TypesUtils.java
+END
+ZebraTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/ZebraTupleFactory.java
+END
+SubColumnExtraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/SubColumnExtraction.java
+END
+Partition.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/Partition.java
+END
+ZebraConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/ZebraConf.java
+END
+CGSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/CGSchema.java
+END
+CsvZebraTupleOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/CsvZebraTupleOutput.java
+END
+Projection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/Projection.java
+END
+ZebraTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1005230/pig/trunk/contrib/zebra/src/java/org/apache/hadoop/zebra/types/ZebraTuple.java
+END

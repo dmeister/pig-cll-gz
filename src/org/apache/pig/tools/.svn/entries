@@ -1,0 +1,83 @@
+10
+
+dir
+1136796
+http://svn.apache.org/repos/asf/pig/trunk/src/org/apache/pig/tools
+http://svn.apache.org/repos/asf
+
+
+
+2011-05-23T20:32:19.567105Z
+1126723
+thejas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+grunt
+dir
+
+timer
+dir
+
+parameters
+dir
+
+pigscript
+dir
+
+ToolsPigServer.java
+file
+
+
+
+
+2011-06-17T08:13:25.000000Z
+1594d0923a08114d7c318fd54aaeb903
+2011-04-14T16:11:22.805168Z
+1092378
+gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6672
+
+cmdline
+dir
+
+pigstats
+dir
+
+streams
+dir
+

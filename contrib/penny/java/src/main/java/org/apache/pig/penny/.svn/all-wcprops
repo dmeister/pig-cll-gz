@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny
+END
+Communicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/Communicator.java
+END
+PennyServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/PennyServer.java
+END
+Coordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/Coordinator.java
+END
+LogicalLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/LogicalLocation.java
+END
+ParsedPigScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/ParsedPigScript.java
+END
+PhysicalLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/PhysicalLocation.java
+END
+MonitorAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/MonitorAgent.java
+END
+NoSuchLocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/NoSuchLocationException.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/Location.java
+END
+ClassWithArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1092378/pig/trunk/contrib/penny/java/src/main/java/org/apache/pig/penny/ClassWithArgs.java
+END

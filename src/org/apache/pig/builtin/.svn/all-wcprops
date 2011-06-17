@@ -1,0 +1,587 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1102461/pig/trunk/src/org/apache/pig/builtin
+END
+DoubleSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DoubleSum.java
+END
+IntMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/IntMax.java
+END
+SUM.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/SUM.java
+END
+TextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1080048/pig/trunk/src/org/apache/pig/builtin/TextLoader.java
+END
+InvokeForInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/InvokeForInt.java
+END
+FloatRound.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/FloatRound.java
+END
+LAST_INDEX_OF.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LAST_INDEX_OF.java
+END
+UCFIRST.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/UCFIRST.java
+END
+IntAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/IntAbs.java
+END
+DoubleMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DoubleMax.java
+END
+LOG.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LOG.java
+END
+COR.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/COR.java
+END
+BagSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/BagSize.java
+END
+MAX.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/MAX.java
+END
+COV.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/COV.java
+END
+IntAvg.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/IntAvg.java
+END
+InvokeForString.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/InvokeForString.java
+END
+SIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/SIN.java
+END
+FloatSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/FloatSum.java
+END
+TANH.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/TANH.java
+END
+COSH.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/COSH.java
+END
+TOTUPLE.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/TOTUPLE.java
+END
+StringConcat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/StringConcat.java
+END
+DoubleAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DoubleAbs.java
+END
+SINH.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/SINH.java
+END
+StringSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/StringSize.java
+END
+LongMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LongMin.java
+END
+Utf8StorageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1097953/pig/trunk/src/org/apache/pig/builtin/Utf8StorageConverter.java
+END
+REGEX_EXTRACT.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/REGEX_EXTRACT.java
+END
+ABS.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/ABS.java
+END
+LCFIRST.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LCFIRST.java
+END
+DoubleAvg.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DoubleAvg.java
+END
+StringMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/StringMin.java
+END
+FloatMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/FloatMax.java
+END
+Invoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/Invoker.java
+END
+AVG.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/AVG.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/package.html
+END
+TOMAP.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1062601/pig/trunk/src/org/apache/pig/builtin/TOMAP.java
+END
+LOG10.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LOG10.java
+END
+DoubleRound.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DoubleRound.java
+END
+ATAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/ATAN.java
+END
+COS.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/COS.java
+END
+STRSPLIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/STRSPLIT.java
+END
+ROUND.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/ROUND.java
+END
+LOWER.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LOWER.java
+END
+ARITY.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/ARITY.java
+END
+PigStreaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/PigStreaming.java
+END
+SQRT.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/SQRT.java
+END
+IsEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/IsEmpty.java
+END
+FloatAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/FloatAbs.java
+END
+UPPER.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/UPPER.java
+END
+REGEX_EXTRACT_ALL.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/REGEX_EXTRACT_ALL.java
+END
+InvokeForDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/InvokeForDouble.java
+END
+IntMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/IntMin.java
+END
+MonitoredUDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/MonitoredUDF.java
+END
+TOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/TOP.java
+END
+FloatAvg.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/FloatAvg.java
+END
+CONCAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/CONCAT.java
+END
+DIFF.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DIFF.java
+END
+GenericInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/GenericInvoker.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/Base.java
+END
+SIZE.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/SIZE.java
+END
+REPLACE.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/REPLACE.java
+END
+CEIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/CEIL.java
+END
+DoubleMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DoubleMin.java
+END
+RANDOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1102221/pig/trunk/src/org/apache/pig/builtin/RANDOM.java
+END
+MIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/MIN.java
+END
+LongSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LongSum.java
+END
+ConstantSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/ConstantSize.java
+END
+TupleSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1071859/pig/trunk/src/org/apache/pig/builtin/TupleSize.java
+END
+InvokeForFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/InvokeForFloat.java
+END
+COUNT.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1083930/pig/trunk/src/org/apache/pig/builtin/COUNT.java
+END
+ASIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/ASIN.java
+END
+EXP.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/EXP.java
+END
+TOBAG.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1102461/pig/trunk/src/org/apache/pig/builtin/TOBAG.java
+END
+BinStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1096603/pig/trunk/src/org/apache/pig/builtin/BinStorage.java
+END
+PigStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1082836/pig/trunk/src/org/apache/pig/builtin/PigStorage.java
+END
+LongMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LongMax.java
+END
+DoubleBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/DoubleBase.java
+END
+MapSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/MapSize.java
+END
+FloatMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/FloatMin.java
+END
+TRIM.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/TRIM.java
+END
+StringMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/StringMax.java
+END
+Nondeterministic.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1102221/pig/trunk/src/org/apache/pig/builtin/Nondeterministic.java
+END
+IntSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/IntSum.java
+END
+SUBSTRING.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1081512/pig/trunk/src/org/apache/pig/builtin/SUBSTRING.java
+END
+COUNT_STAR.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/COUNT_STAR.java
+END
+Distinct.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1071864/pig/trunk/src/org/apache/pig/builtin/Distinct.java
+END
+FLOOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/FLOOR.java
+END
+InvokeForLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/InvokeForLong.java
+END
+TAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/TAN.java
+END
+LongAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LongAbs.java
+END
+ACOS.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/ACOS.java
+END
+TOKENIZE.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1068502/pig/trunk/src/org/apache/pig/builtin/TOKENIZE.java
+END
+CBRT.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/CBRT.java
+END
+INDEXOF.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/INDEXOF.java
+END
+LongAvg.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/builtin/LongAvg.java
+END

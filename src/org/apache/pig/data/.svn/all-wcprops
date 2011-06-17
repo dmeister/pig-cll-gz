@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1097662/pig/trunk/src/org/apache/pig/data
+END
+BinSedesTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/BinSedesTuple.java
+END
+InternalMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/InternalMap.java
+END
+FileList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/FileList.java
+END
+SortedSpillBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/SortedSpillBag.java
+END
+InternalCachedBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1071864/pig/trunk/src/org/apache/pig/data/InternalCachedBag.java
+END
+DefaultAbstractBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DefaultAbstractBag.java
+END
+DistinctDataBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DistinctDataBag.java
+END
+NonSpillableDataBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/NonSpillableDataBag.java
+END
+DefaultBagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DefaultBagFactory.java
+END
+DefaultTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DefaultTupleFactory.java
+END
+InternalDistinctBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1071864/pig/trunk/src/org/apache/pig/data/InternalDistinctBag.java
+END
+ReadOnceBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/ReadOnceBag.java
+END
+DataByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1028672/pig/trunk/src/org/apache/pig/data/DataByteArray.java
+END
+InterSedesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/InterSedesFactory.java
+END
+BinSedesTupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/BinSedesTupleFactory.java
+END
+SortedDataBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/SortedDataBag.java
+END
+SingleTupleBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/SingleTupleBag.java
+END
+InterSedes.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/InterSedes.java
+END
+InternalSortedBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1071864/pig/trunk/src/org/apache/pig/data/InternalSortedBag.java
+END
+TargetedTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/TargetedTuple.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1080048/pig/trunk/src/org/apache/pig/data/DataType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/package.html
+END
+TupleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1045314/pig/trunk/src/org/apache/pig/data/TupleFactory.java
+END
+BagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/BagFactory.java
+END
+AmendableTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/AmendableTuple.java
+END
+DataBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DataBag.java
+END
+TimestampedTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/TimestampedTuple.java
+END
+DefaultDataBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DefaultDataBag.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/Tuple.java
+END
+DataReaderWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DataReaderWriter.java
+END
+TupleRawComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/TupleRawComparator.java
+END
+AccumulativeBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1045314/pig/trunk/src/org/apache/pig/data/AccumulativeBag.java
+END
+BinInterSedes.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1097662/pig/trunk/src/org/apache/pig/data/BinInterSedes.java
+END
+DefaultTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/data/DefaultTuple.java
+END

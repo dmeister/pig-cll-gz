@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1125124/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine
+END
+HExecutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1099121/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/HExecutionEngine.java
+END
+HJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/HJob.java
+END
+MapRedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1005230/pig/trunk/src/org/apache/pig/backend/hadoop/executionengine/MapRedResult.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/asf/!svn/ver/1005230/pig/trunk/license
+END
+jline-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1005230/pig/trunk/license/jline-LICENSE.txt
+END
+brics-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1005230/pig/trunk/license/brics-LICENSE.txt
+END
+javacc-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1005230/pig/trunk/license/javacc-LICENSE.txt
+END
+jsch-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1005230/pig/trunk/license/jsch-LICENSE.txt
+END
+junit-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1005230/pig/trunk/license/junit-LICENSE.txt
+END
+hadoop-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1005230/pig/trunk/license/hadoop-LICENSE.txt
+END
